@@ -1,0 +1,1 @@
+1) Removing classes: "movieOne", "movieTwo", etc. Might be a cause for an error.

@@ -1,0 +1,18 @@
+.title {
+    font-family: 'Great Vibes', cursive; 
+    margin-top: 20px;
+    font-weight: 500;
+    color: #0437f2;
+}
+
+.subtitle {
+    font-family: 'Great Vibes', cursive;
+    color: brown;
+    font-size: 50px;
+    text-decoration:dotted;
+}
+
+.navBtn {
+    margin-left: 10px;
+    margin-right: 10px;
+}
