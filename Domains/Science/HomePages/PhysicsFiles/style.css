@@ -1,0 +1,54 @@
+body {
+    margin-left: 15px;
+    background-image: url(Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#physicsHeader {
+    margin-bottom: 50px;
+    transition: color 0.3s ease-in-out;
+}
+
+#physicsHeader:hover {
+    color: dodgerblue;
+}
+
+/*Navigation Header Styling*/
+.main-header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.logo img {
+    max-width: 100%;
+    height: auto;
+}
+
+.main-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.main-nav li {
+    margin-right: 20px;
+}
+
+.main-nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 25px;
+    transition: color 0.3s ease-in-out;
+}
+
+.main-nav a:hover {
+    color: teal; /* Change the color on hover as per your preference */
+}
